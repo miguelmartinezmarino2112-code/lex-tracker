@@ -5,7 +5,7 @@ from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 EMAIL_ORIGEN   = "miguelmartinezmarino2112@gmail.com"
-EMAIL_PASSWORD = "vbya tefy biku rsxx"
+EMAIL_PASSWORD = "vbyatefybikursxx"
 EMAILS_DESTINO = [
     "miguelmartinezmarino2112@gmail.com",
     "nilamarino09@gmail.com",
