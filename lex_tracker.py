@@ -84,8 +84,9 @@ def enviar_email(urgentes):
             s.sendmail(EMAIL_ORIGEN, EMAILS_DESTINO, msg.as_string())
         print("Email enviado!")
     except Exception as e:
+        import traceback
+        traceback.print_exc()
         print(f"Error email: {e}")
-
 def loop_alertas():
     enviado_hoy = None
     while True:
