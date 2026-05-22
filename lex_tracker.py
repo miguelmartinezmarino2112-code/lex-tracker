@@ -118,7 +118,7 @@ def api_test():
 
 HTML = r"""<!DOCTYPE html>
 <html lang="es"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1.0">
-<title>Lex Tracker</title>
+<title>Navarro & Navarro</title>
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Mono:wght@400;500&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
 <style>
 :root{--bg:#0f0f11;--surface:#17171a;--card:#1e1e23;--border:#2a2a32;--text:#e8e6e0;--muted:#6b6880;--accent:#c9a96e;--red:#e05c5c;--yellow:#d4a82a;--green:#5ab88a;--red-bg:rgba(224,92,92,.10);--yellow-bg:rgba(212,168,42,.10);--green-bg:rgba(90,184,138,.10)}
