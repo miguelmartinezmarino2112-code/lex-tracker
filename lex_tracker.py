@@ -9,7 +9,7 @@ EMAIL_PASSWORD = "vbya tefy biku rsxx"
 EMAILS_DESTINO = [
     "miguelmartinezmarino2112@gmail.com",
     "nilamarino09@gmail.com",
-    "adrian@nnlaw.com",
+    "navarrad@gmail.com",
     "adry.navarro05@gmail.com",
 ]
 HORA_ALERTA = "08:00"
