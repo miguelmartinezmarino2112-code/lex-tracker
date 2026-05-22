@@ -13,6 +13,9 @@ EMAILS_DESTINO = [
     "adry.navarro05@gmail.com",
 ]
 HORA_ALERTA = "08:00"
+import os
+os.environ['TZ'] = 'America/Panama'
+
 app = Flask(__name__)
 DB  = "lex_tracker.db"
 
